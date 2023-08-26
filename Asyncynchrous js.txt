@@ -1,0 +1,23 @@
+//Scenario
+
+1. Register
+2. Send welcome email
+3.Login'
+4. Get user data
+5.Display User Data
+
+
+//HOF - Jab function ke parameter ke andar dusra function call karte hai to use javascript ke a ndar higher order function(H.O.F) bolte hai
+
+Callback Function : Jab koi calling function ke parameter ke andar dusra function pass karte hai and call karte hai usko then it's called Callback Function
+
+Promises
+1. jo bhi hum resolve() function ke andar pass karte hai .then() block ke andar uski value aa jati hai
+Similarly
+jo bhi hum reject() function ke andar pass karte hai .catch() block ke andar uski value aa jati hai
+
+
+
+//Async/Await : Promises ko handle karne ka ek better tarika
+
+issse hote yeah ki code visually Synchronous code dikhega but hota wo Asynchronous code hai
